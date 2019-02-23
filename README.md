@@ -22,18 +22,19 @@ intervalo [-99999, 99999].
 
 **RUN WITHOUT DOCKER :**
 ```javascript
-npm install  *to install the dependencies locally.*
+npm install  //to install the dependencies locally.*
 ```
 ```javascript
-npm start    *to start the server*
+npm start    //to start the server*
 ```
+```javascript
                     OR
-g
+```
 **RUN USING DOCKER:**
 ```javascript
-sudo docker run -p 3000:3000 -d certi *to start the image.*
+sudo docker run -p 3000:3000 -d certi //*to start the image.*
 ```
 **USAGE:**
 ```javascript
 open a browser:
-localhost:3000/-1423```
+localhost:3000/-1423
