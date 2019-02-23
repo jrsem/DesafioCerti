@@ -22,9 +22,9 @@ Exemplos:
 { "extenso": "noventa e quatro mil e quinhentos e oitenta e sete" }
 ```
 
-#RUN WITHOUT DOCKER:
-npm install //to install the dependencies locally.
-npm start // to start the server
+RUN WITHOUT DOCKER:
+*npm install //to install the dependencies locally.
+*npm start // to start the server
 
                     OR
 
